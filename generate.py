@@ -1,3 +1,6 @@
+# import random
+# number = random.randint(1,10)
+# print(number)
+
 import random
-number = random.randint(1,10)
-print(number)
+cards = ["jack"]
