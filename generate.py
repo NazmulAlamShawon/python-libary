@@ -1,3 +1,3 @@
 import random
-
-coin = random.choice(["heads",]
+number = random.randint(1,10)
+print(number)
